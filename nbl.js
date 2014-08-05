@@ -91,4 +91,4 @@ this.nbl = {
 		m.h.appendChild(s) // Add the script to the document
   }
 };
-nbl.l()
+//nbl.l()
